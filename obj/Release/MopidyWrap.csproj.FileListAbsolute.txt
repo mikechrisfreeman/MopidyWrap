@@ -1,0 +1,7 @@
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\bin\Release\MopidyWrap.dll
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\bin\Release\MopidyWrap.pdb
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\bin\Release\Newtonsoft.Json.dll
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\bin\Release\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\obj\Release\MopidyWrap.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\obj\Release\MopidyWrap.dll
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\obj\Release\MopidyWrap.pdb
