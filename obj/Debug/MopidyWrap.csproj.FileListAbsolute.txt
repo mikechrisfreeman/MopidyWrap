@@ -1,0 +1,12 @@
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\MopidyWrap\bin\Debug\MopidyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\MopidyWrap\bin\Debug\MopidyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\MopidyWrap\obj\Debug\MopidyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\MopidyWrap\obj\Debug\MopidyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\MopidyWrap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\MopidyWrap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\bin\Debug\MopidyWrap.dll
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\bin\Debug\MopidyWrap.pdb
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\obj\Debug\MopidyWrap.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\obj\Debug\MopidyWrap.dll
+C:\Users\mikec\Documents\GitHub\MopidyWrap\MopidyWrap\obj\Debug\MopidyWrap.pdb
